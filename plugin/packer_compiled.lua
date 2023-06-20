@@ -114,11 +114,6 @@ _G.packer_plugins = {
     path = "/home/bhogus/.local/share/nvim/site/pack/packer/start/harpoon",
     url = "https://github.com/theprimeagen/harpoon"
   },
-  hydrovim = {
-    loaded = true,
-    path = "/home/bhogus/.local/share/nvim/site/pack/packer/start/hydrovim",
-    url = "https://github.com/smzm/hydrovim"
-  },
   ["lsp-zero.nvim"] = {
     loaded = true,
     path = "/home/bhogus/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
@@ -139,11 +134,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/bhogus/.local/share/nvim/site/pack/packer/start/moonfly",
     url = "https://github.com/bluz71/vim-moonfly-colors"
-  },
-  ["nui.nvim"] = {
-    loaded = true,
-    path = "/home/bhogus/.local/share/nvim/site/pack/packer/start/nui.nvim",
-    url = "https://github.com/MunifTanjim/nui.nvim"
   },
   ["nvim-cmp"] = {
     loaded = true,
